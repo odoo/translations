@@ -1,0 +1,1400 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * florist
+#
+# "Tiffany Chang (tic)" <tic@odoo.com>, 2025.
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-26 18:12+0000\n"
+"PO-Revision-Date: 2025-09-18 03:00+0000\n"
+"Last-Translator: \"Tiffany Chang (tic)\" <tic@odoo.com>\n"
+"Language-Team: French <https://translate.odoo.com/projects/odoo-19/florist/"
+"fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.12.2\n"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ", and feel free to"
+msgstr "et n'hésitez pas à"
+
+#. module: florist
+#: model:website,contact_us_link_url:florist.website_industry
+#: model:website.page,url:florist.page_contactus
+msgid "/contactus"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid ""
+"<a href=\"/contactus\" class=\"o_translate_inline btn btn-primary\">Order "
+"flowers</a><br/>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_contactus
+msgid ""
+"<b><br/>Maison Reverie<br/></b>Rue de l’Ange 12, 5000 Namur<br/>📞 +32 81 45 "
+"23 19<br/>✉️ hello@maisonreverie.be"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_contactus
+msgid ""
+"<br/>At <b>Maison Reverie</b>, every encounter begins with a conversation."
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<i class=\"o_editor_banner_icon mb-3 fst-normal\" data-oe-aria-"
+"label=\"Banner Info\">💡</i>"
+msgstr ""
+"<i class=\"o_editor_banner_icon mb-3 fst-normal\" data-oe-aria-"
+"label=\"Banner Info\">💡</i>"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<i class=\"o_editor_banner_icon mb-3 fst-normal\" data-oe-aria-"
+"label=\"Banner Success\">🎉</i>"
+msgstr ""
+"<i class=\"o_editor_banner_icon mb-3 fst-normal\" data-oe-aria-"
+"label=\"Banner Success\">🎉</i>"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<i data-oe-aria-label=\"Banner Info\" class=\"o_editor_banner_icon mb-3 fst-"
+"normal\">🚀</i>"
+msgstr ""
+"<i data-oe-aria-label=\"Banner Info\" class=\"o_editor_banner_icon mb-3 fst-"
+"normal\">🚀</i>"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<i data-oe-aria-label=\"Banner Warning\" class=\"o_editor_banner_icon mb-3 "
+"fst-normal\">⚠️</i>"
+msgstr ""
+"<i data-oe-aria-label=\"Banner Warning\" class=\"o_editor_banner_icon mb-3 "
+"fst-normal\">⚠️</i>"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid ""
+"<span class=\"flex-grow-1\" style=\"color: rgb(68, 80, 27);\">Maison Reverie "
+"- Anvers</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid ""
+"<span class=\"flex-grow-1\" style=\"color: rgb(68, 80, 27);\">Maison Reverie "
+"- Bruxelles<br/></span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid ""
+"<span class=\"flex-grow-1\" style=\"color: rgb(68, 80, 27);\">Maison Reverie "
+"- Gand</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid ""
+"<span class=\"flex-grow-1\" style=\"color: rgb(68, 80, 27);\">Maison Reverie "
+"- Mons</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid ""
+"<span class=\"flex-grow-1\" style=\"color: rgb(68, 80, 27);\">Maison Reverie "
+"- Namur</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid ""
+"<span class=\"h5-fs\">Inspired by French elegance and the poetry of nature, "
+"each bouquet is crafted with care to celebrate life’s most meaningful "
+"moments in timeless style.<br/><br/></span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.footer_custom
+msgid ""
+"<span class=\"o_small-fs text-o-color-5\">Where flowers meet art and dreams "
+"bloom. At Maison Reverie, we create timeless floral designs inspired by "
+"nature, beauty, and emotion. Each bouquet tells a story, crafted with care, "
+"passion, and a touch of French elegance.</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_contactus
+msgid "<span class=\"s_website_form_label_content\">Phone Number</span>"
+msgstr ""
+"<span class=\"s_website_form_label_content\">Numéro de téléphone</span>"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_contactus
+msgid ""
+"<span class=\"s_website_form_label_content\">Subject</span>\n"
+"                                                                    <span "
+"class=\"s_website_form_mark\"> *</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_contactus
+msgid ""
+"<span class=\"s_website_form_label_content\">Your Company</span>\n"
+"                                                                    <span "
+"class=\"s_website_form_mark\"> *</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_contactus
+msgid ""
+"<span class=\"s_website_form_label_content\">Your Email</span>\n"
+"                                                                    <span "
+"class=\"s_website_form_mark\"> *</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_contactus
+msgid ""
+"<span class=\"s_website_form_label_content\">Your Name</span>\n"
+"                                                                    <span "
+"class=\"s_website_form_mark\"> *</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_contactus
+msgid ""
+"<span class=\"s_website_form_label_content\">Your Question</span>\n"
+"                                                                    <span "
+"class=\"s_website_form_mark\"> *</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid ""
+"<span class=\"text-o-color-5\"><b>In Belgium, you can find the elegance of "
+"Maison Reverie in five beautiful locations.</b></span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_contactus
+msgid ""
+"<span class=\"text-o-color-5\">A scent, a color, a feeling...</span><br/"
+"><span class=\"text-o-color-5\">At <b>Maison Reverie</b>, flowers tell your "
+"story.</span><br/><span class=\"text-o-color-5\">Reach out to us to imagine "
+"together a creation that expresses your emotions with grace and refinement.</"
+"span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid ""
+"<span class=\"text-o-color-5\">Artfully arranged with rare and seasonal "
+"blooms, our bespoke bouquets capture elegance and emotion in every petal.</"
+"span><br/><br/>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid "<span class=\"text-o-color-5\">Bespoke Bouquets</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_contactus
+msgid "<span class=\"text-o-color-5\">Contact us</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid ""
+"<span class=\"text-o-color-5\">Each boutique captures the spirit of French "
+"artistry and floral passion, offering a haven of beauty where every bouquet "
+"is crafted with care and emotion. Visit us and experience the poetry of "
+"flowers, wherever you are in Belgium.</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid "<span class=\"text-o-color-5\">Floral Design for Events</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid ""
+"<span class=\"text-o-color-5\">From intimate gatherings to grand "
+"celebrations, our floral designs transform each space into a living dream.</"
+"span><br/><br/>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid "<span class=\"text-o-color-5\">Our French inspiration</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid "<span class=\"text-o-color-5\">Our creations</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid ""
+"<span class=\"text-o-color-5\">Rooted in the timeless art of French "
+"floristry, Maison Reverie draws inspiration from the charm of Parisian "
+"gardens, cobblestone markets, and the effortless elegance of everyday "
+"beauty. Each bloom tells a story of romance, grace, and natural harmony.</"
+"span><br/>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid "<span class=\"text-o-color-5\">Signature Collections</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid ""
+"<span class=\"text-o-color-5\">Timeless creations inspired by the seasons "
+"where nature, artistry, and refinement meet in perfect harmony.</span><br/"
+"><br/>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid ""
+"<span class=\"text-o-color-5\">We believe flowers are more than decoration; "
+"they are emotion made visible. Guided by French aesthetics and modern "
+"artistry, our designs blend softness and sophistication, creating "
+"arrangements that feel both classic and alive.</span><br/>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid "<span class=\"text-o-color-5\">Where to find us</span><br/>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid "<span style=\"color: rgb(68, 80, 27);\"><strong>Reverie</strong></span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.footer_custom
+msgid "<span style=\"font-size: 30px;\">Connect with us</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.footer_custom
+msgid "<span style=\"font-size: 30px;\">Maison Reverie</span>"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<strong>\n"
+"                    <font style=\"color: rgb(113, 75, 103);\">The Point of "
+"Sale app </font><font class=\"text-o-color-5\"><span style=\"font-weight: "
+"normal;\">h</span></font>\n"
+"                </strong>\n"
+"                andles in-store sales of bouquets, flowers, gift cards, and "
+"more."
+msgstr ""
+"<strong>\n"
+"                    <font style=\"color: rgb(113, 75, 103);\">L'app Point de "
+"Vente </font><font class=\"text-o-color-5\"><span style=\"font-weight: "
+"normal;\"></span></font>\n"
+"                </strong>\n"
+"                permet de gérer les ventes en boutique de bouquets, fleurs "
+"fraîches, cartes-cadeaux, et plus encore."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<strong>\n"
+"                    <font style=\"color: rgb(113, 75, 103);\">The Sales app "
+"</font>\n"
+"                    <font class=\"text-o-color-5\"><span style=\"font-"
+"weight: normal;\">makes it simple to handle customer orders, including big "
+"floral arrangements for weddings, corporate events, and other special "
+"occasions.</span></font>\n"
+"                </strong>"
+msgstr ""
+"<strong>\n"
+"                    <font style=\"color: rgb(113, 75, 103);\">L'app Ventes </"
+"font>\n"
+"                    <font class=\"text-o-color-5\"><span style=\"font-"
+"weight: normal;\">simplifie la gestion des commandes clients, y compris pour "
+"les compositions florales complexes destinées aux mariages ou événements.</"
+"span></font>\n"
+"                </strong>"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<strong><font style=\"color: rgb(113, 75, 103);\">The CRM app</font></"
+"strong><font class=\"text-o-color-5\"> helps you manage customer "
+"relationships, event requests, and flower inquiries easily.</font><br/>"
+msgstr ""
+"<strong><font style=\"color: rgb(113, 75, 103);\">L'app CRM</font></"
+"strong><font class=\"text-o-color-5\"> permet de gérer les relations "
+"clients, les demandes de devis événementiels et toutes vos interactions "
+"commerciales.</font><br/>"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<strong><font style=\"color: rgb(113, 75, 103);\">The Purchase app</font></"
+"strong> manages vendor and ensures your shop is stocked with the freshest "
+"flowers."
+msgstr ""
+"<strong><font style=\"color: rgb(113, 75, 103);\">L'app Achats</font></"
+"strong> permet de superviser vos fournisseurs pour garantir un "
+"approvisionnement constant en fleurs fraîches et de qualité."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<strong><font style=\"color: rgb(113, 75, 103);\">The Website app </font></"
+"strong>allows customers to showcase your flowers vision and services online."
+msgstr ""
+"<strong><font style=\"color: rgb(113, 75, 103);\">L'app Site Web </font></"
+"strong>permet à vos clients de découvrir votre univers floral et vos "
+"services en ligne."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<strong>Activate payment methods: </strong>Activate payment options such as "
+"Cash, Card, Mobile Payments, and Gift Cards directly in your POS settings."
+msgstr ""
+"<strong>Activez les modes de paiement :</strong> Configurez les paiements en "
+"espèces, par carte bancaire, mobile ou carte-cadeau dans les paramètres du "
+"Point de Vente."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "<strong>Basics</strong>"
+msgstr "<strong>Les bases</strong>"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<strong>Choose the best deal</strong>: Pick the vendor offering the best "
+"deal for the requested materials."
+msgstr ""
+"<strong>Choisissez la meilleure offre :</strong> Sélectionnez le fournisseur "
+"proposant la meilleure offre pour les matériaux demandés."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<strong>Create a Purchase Order</strong>: Order the flowers, plants, and "
+"accessories you need for your business."
+msgstr ""
+"<strong>Créez un bon de commande :</strong> Commandez les fleurs, plantes et "
+"accessoires nécessaires à votre activité."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<strong>Create tailored sales quotations: </strong>Generate a customized "
+"Sales Quotation for weddings, birthdays, or corporate floral events, "
+"directly on the sales app."
+msgstr ""
+"<strong>Créez des devis personnalisés :</strong> Générez un devis sur mesure "
+"pour les mariages, anniversaires ou événements floraux d’entreprise "
+"directement dans l’application Ventes."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<strong>Extend your offerings: </strong>Configure Gift Cards to offer "
+"flexible floral gifts and provide more options for your clients."
+msgstr ""
+"<strong>Élargissez votre offre :</strong> Configurez les cartes-cadeaux pour "
+"offrir des cadeaux floraux flexibles et proposer plus d’options à vos "
+"clients."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<strong>Manage customer requests</strong>: Track customer inquiries coming "
+"from your Website (such as wedding floral requests or custom bouquet "
+"orders), manage engagement, follow up easily, and convert them into "
+"confirmed sales\n"
+"            opportunities."
+msgstr ""
+"<strong>Gérez les demandes clients</strong> : Suivez les demandes provenant "
+"de votre site web (telles que les demandes florales de mariage ou les "
+"commandes de bouquets personnalisés), gérez les échanges, relancez "
+"facilement et transformez-les en opportunités\n"
+"            de vente confirmées."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<strong>Organize event projects: </strong>Create a project to manage and "
+"organize specific events, assign tasks, set deadlines, and track progress."
+msgstr ""
+"<strong>Organisez des projets événementiels :</strong> Créez un projet pour "
+"gérer et organiser des événements spécifiques, attribuez des tâches, fixez "
+"des délais et suivez les progrès."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<strong>Set up product offering: </strong>Create and configure your flower "
+"products and add variants if you have different size or color for the same "
+"product. You can also add an extra charges for specific options (e.g., +£2 "
+"for a\n"
+"            red tulip, +£10 for a medium bouquet)."
+msgstr ""
+"<strong>Configurez votre offre produit :</strong> créez et paramétrez vos "
+"produits floraux, ajoutez des variantes si vous proposez différentes tailles "
+"ou couleurs pour un même produit.\n"
+"Vous pouvez également ajouter des frais supplémentaires pour certaines "
+"options (ex. : +2 € pour une\n"
+"            tulipe rouge, +10 € pour un bouquet moyen)."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<strong>Showcase your floral vision and offer: </strong>Configure your "
+"website to highlight your floral style, present your services and get new "
+"opportunities through a contact form."
+msgstr ""
+"<strong>Mettez en valeur votre vision florale et vos offres :</strong> "
+"configurez votre site web pour mettre en avant votre style floral, présenter "
+"vos services et générer de nouvelles opportunités via un formulaire de "
+"contact."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<strong>Take orders in Point of Sale</strong>: Open a register and process "
+"in-store purchases such as bouquets, flowers, cards, and more."
+msgstr ""
+"<strong>Prenez les commandes en Point de Vente :</strong> ouvrez une caisse "
+"et traitez les achats en magasin comme les bouquets, fleurs, cartes et "
+"autres."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "<strong>Use Case</strong>"
+msgstr "<strong>Cas d’utilisation</strong>"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"<strong>You didn't import demo data?</strong> You can still do it. Go to "
+"<strong>Apps &gt; Industries &gt; Upgrade your Florist Package</strong> and "
+"check the related box."
+msgstr ""
+"<strong>Vous n’avez pas importé les données de démonstration ?</strong> Vous "
+"pouvez encore le faire. Allez dans <strong>Applications > Industries > "
+"Améliorez votre pack Fleuriste</strong> et cochez la case correspondante."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"Add the <strong>eCommerce </strong>features to extend your floral business."
+msgstr ""
+"Ajoutez les fonctionnalités <strong>eCommerce</strong> pour développer votre "
+"activité florale."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"Add<strong> product categories</strong> to organize your point of sales and "
+"make your products easier to find during busy periods. (e.g. Bouquets, "
+"Flowers, Plants, Other,...)"
+msgstr ""
+"Ajoutez des <strong>catégories de produits</strong> pour organiser votre "
+"point de vente et rendre vos produits plus faciles à trouver pendant les "
+"périodes chargées (ex. : Bouquets, Fleurs, Plantes, Autres, etc.)."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"Also, create beautiful <strong>Quotation Templates</strong> for specific "
+"requests like wedding floral packages, making it faster and easier to send "
+"offers to clients."
+msgstr ""
+"Créez également de magnifiques <strong>modèles de devis</strong> pour des "
+"demandes spécifiques comme les forfaits floraux de mariage, afin de "
+"faciliter et d’accélérer l’envoi d’offres à vos clients."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid "Avenue Louise 214, 1050 Brussels"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "Because: we can buy ourselves flowers! 💐"
+msgstr "Parce qu’on n’a pas besoin d’attendre qu’on nous offre des fleurs ! 💐"
+
+#. module: florist
+#: model:pos.category,name:florist.pos_category_2
+#: model:product.category,name:florist.product_category_6
+#: model:product.pricelist,name:florist.product_pricelist_2
+msgid "Bouquet"
+msgstr "Bouquet"
+
+#. module: florist
+#: model_terms:product.template,public_description:florist.product_template_7
+msgid ""
+"Bright tulips to bring sunshine to any bouquet. Ideal for spring "
+"arrangements."
+msgstr ""
+"Des tulipes éclatantes pour illuminer n’importe quel bouquet. Idéales pour "
+"les compositions printanières."
+
+#. module: florist
+#: model:uom.uom,name:florist.uom_uom_30
+msgid "Bunch of 10"
+msgstr "Bouquet de 10"
+
+#. module: florist
+#: model:uom.uom,name:florist.uom_uom_31
+msgid "Bunch of 5"
+msgstr "Bouquet de 5"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"By uploading this module's demo data, your database has been filled with a "
+"few contacts."
+msgstr ""
+"En téléchargeant les données de démonstration de ce module, votre base de "
+"données a été enrichie de quelques contacts."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_contactus
+msgid "Connect with Us"
+msgstr ""
+
+#. module: florist
+#: model:website.page,name:florist.page_contactus
+msgid "Contact Us"
+msgstr ""
+
+#. module: florist
+#: model:product.template,name:florist.product_template_19
+msgid "Delivery & Setup"
+msgstr "Livraison &amp; Installation"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "Discover more about Odoo by diving into our"
+msgstr "Découvrez-en plus sur Odoo en vous plongeant dans notre"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "Do You Want to Go Further?"
+msgstr "Vous souhaitez aller plus loin ?"
+
+#. module: florist
+#: model:project.task.type,name:florist.project_task_type_3
+msgid "Done"
+msgstr "Fait"
+
+#. module: florist
+#: model:product.template,name:florist.product_template_16
+msgid "Dry Flowers Bouquet"
+msgstr "Bouquet de fleurs séchées"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"Easily handle your accounting with the integrated <strong>Accounting App</"
+"strong>."
+msgstr ""
+"Gérez facilement votre comptabilité avec l'<strong>application Comptabilité</"
+"strong> intégrée."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "Easily process in-store purchases and offer flexible payment options."
+msgstr ""
+"Traitez facilement les achats en magasin et proposez des options de paiement "
+"flexibles."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"Easily turn event requests from Website into beautiful floral creations by "
+"creating projects"
+msgstr ""
+"Transformez facilement les demandes d’événement issues du site web en "
+"superbes créations florales en créant des projets."
+
+#. module: florist
+#: model:project.project,name:florist.project_project_1
+msgid "Emily & Paul Wedding"
+msgstr "Mariage Emily & Paul"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "Ensure you have fresh flowers at all times."
+msgstr "Assurez-vous de toujours disposer de fleurs fraîches."
+
+#. module: florist
+#: model:product.template,name:florist.product_template_20
+msgid "Event Registration"
+msgstr ""
+
+#. module: florist
+#: model:product.category,name:florist.product_category_7
+msgid "Events"
+msgstr ""
+
+#. module: florist
+#: model:ir.module.module,shortdesc:base.module_florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "Florist"
+msgstr "Fleuriste"
+
+#. module: florist
+#: model:hr.job,name:florist.hr_job_2
+msgid "Flower Shop Director"
+msgstr "Responsable de la boutique de fleurs"
+
+#. module: florist
+#: model:hr.department,name:florist.hr_department_2
+#: model:hr.job,name:florist.hr_job_1
+msgid "Flower Shop Sales Assistant"
+msgstr "Assistant(e) de vente en boutique de fleurs"
+
+#. module: florist
+#: model:pos.category,name:florist.pos_category_1
+#: model:product.category,name:florist.product_category_5
+msgid "Flowers"
+msgstr "Fleurs"
+
+#. module: florist
+#: model:product.template,name:florist.product_template_15
+msgid "Gift Card"
+msgstr "Carte-cadeau"
+
+#. module: florist
+#: model:website.page,name:florist.page_home
+msgid "Home"
+msgstr ""
+
+#. module: florist
+#: model:project.task.type,name:florist.project_task_type_2
+msgid "In Progress"
+msgstr "En cours"
+
+#. module: florist
+#: model:product.template,name:florist.product_template_10
+msgid "Iris"
+msgstr "Iris"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid "Korenlei 19, 9000 Ghent"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"Link the \"Contact Us\" button on your website’s contact form to "
+"automatically <strong>create an opportunity </strong>in your CRM."
+msgstr ""
+"Liez le bouton \"Contactez-nous\" du formulaire de contact de votre site web "
+"pour <strong>créer automatiquement une opportunité</strong> dans votre CRM."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid "Lombardenvest 45, 2000 Antwerp"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid "Maison<br/>Reverie"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "Manage Event Requests and Deliver Floral Success"
+msgstr ""
+"Gérez les demandes d’événements et garantissez le succès de vos compositions "
+"florales."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "Manage Opportunities and Handle Tailor-Made Orders"
+msgstr "Gérez les opportunités et traitez des commandes sur mesure"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "Manage Purchases"
+msgstr "Gérez les achats"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "Manage Sales and Payments in Point of Sale"
+msgstr "Gérez les ventes et les paiements en Point de Vente"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"Odoo is entirely integrated into an App. Download it to turn your phone into "
+"a tool to manage your entire workflow."
+msgstr ""
+"Odoo est entièrement intégré dans une application. Téléchargez-la et "
+"transformez votre téléphone en un outil pour gérer l'ensemble de votre flux "
+"de travail."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"Odoo offers endless customization possibilities for your flower business:"
+msgstr ""
+"Odoo offre d’innombrables possibilités de personnalisation pour votre "
+"magasin de fleurs :"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"Of course, this is just an overview of the features included in this "
+"package. Feel free to add new apps, delete/modify demo data, and test "
+"everything around!"
+msgstr ""
+"Bien entendu, il ne s'agit que d'un aperçu des fonctionnalités incluses dans "
+"ce paquet. N'hésitez pas à ajouter de nouvelles applications, à supprimer/"
+"modifier les données de démonstration et à tout tester !"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"Organize flower workshops to engage with customers using the <strong>Events "
+"App</strong>."
+msgstr ""
+"Organisez des ateliers floraux pour interagir avec les clients grâce à "
+"l’application <strong>Événements</strong>."
+
+#. module: florist
+#: model:pos.category,name:florist.pos_category_3
+msgid "Other"
+msgstr "Autre"
+
+#. module: florist
+#: model:product.template,name:florist.product_template_6
+msgid "Peonies"
+msgstr "Pivoines"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.footer_custom
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid "Rue de l’Ange 12, 5000 Namur"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "Schedule a demo"
+msgstr "Planifier une démonstration"
+
+#. module: florist
+#: model:product.template,name:florist.product_template_11
+msgid "Seasonal Bouquet (Mixed Flowers)"
+msgstr "Bouquet de saison (Fleurs mixtes)"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"Set up recurring delivery services for offices or homes, such as a weekly "
+"bouquet delivery, with the <strong>Subscriptions App</strong>."
+msgstr ""
+"Configurez des services de livraison récurrents pour les bureaux ou les "
+"domiciles, comme une livraison hebdomadaire de bouquets, avec l’application "
+"<strong>Abonnements</strong>."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"Set up<strong> pricelists</strong> to manage promotions easily, like "
+"offering <strong>15% off all bouquets for Mother’s &amp; Father's Day</"
+"strong> or other seasonal events."
+msgstr ""
+"Configurez des <strong>listes de prix</strong> pour gérer facilement les "
+"promotions, comme <strong>-15 % sur tous les bouquets pour la fête des "
+"mères, des pères</strong> ou d'autres événements saisonniers."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_contactus
+msgid "Submit"
+msgstr "Soumettre"
+
+#. module: florist
+#: model:product.template,name:florist.product_template_9
+msgid "Sunflower"
+msgstr "Tournesol"
+
+#. module: florist
+#: model:product.template,name:florist.product_template_17
+msgid "Table Centerpieces"
+msgstr "Centres de table"
+
+#. module: florist
+#: model:project.project,label_tasks:florist.project_project_1
+msgid "Tasks"
+msgstr "Tâches"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"The package includes the Point of Sale (POS) app for handling in-store "
+"purchases, the Sales app for managing quotations and orders, the Website to "
+"showcase your floral vision and the Project app to track tasks and deadlines "
+"for specific\n"
+"        event requests. Whether you're creating a seasonal bouquet for a "
+"gift or planning floral arrangements for a wedding, Odoo helps you stay "
+"organized and deliver beautiful results to your clients."
+msgstr ""
+"Le pack inclut l’application Point de Vente pour gérer les achats en "
+"magasin, l’application Ventes pour gérer les devis et commandes, le Site Web "
+"pour mettre en valeur votre univers floral, et l’application Projet pour "
+"suivre les tâches et échéances liées aux demandes\n"
+"        d’événements spécifiques. Que vous réalisiez un bouquet de saison "
+"pour un cadeau ou planifiiez des compositions florales pour un mariage, Odoo "
+"vous aide à rester organisé et à livrer de magnifiques résultats à vos "
+"clients."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"There are millions of other ways to adapt your Odoo setup to fit your "
+"business needs."
+msgstr ""
+"Il existe des millions d’autres façons d’adapter votre configuration Odoo "
+"aux besoins de votre entreprise."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"These all go free in your current subscription; feel free to explore! 🙃"
+msgstr ""
+"Tous ces services sont compris dans votre abonnement actuel ; n'hésitez pas "
+"à les découvrir ! 🙃"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"This setup is perfect for florists who specialize in providing fresh "
+"flowers, customized bouquets, and event floral designs, catering to walk-in "
+"customers and fulfilling orders for occasions like weddings, birthday "
+"dinners, or corporate\n"
+"        events."
+msgstr ""
+"Cette configuration est idéale pour les fleuristes spécialisés dans les "
+"fleurs fraîches, les bouquets personnalisés et les compositions florales "
+"événementielles, répondant aux clients de passage comme aux commandes pour "
+"mariages, dîners d’anniversaire ou événements\n"
+"        d’entreprise."
+
+#. module: florist
+#: model:project.task.type,name:florist.project_task_type_1
+msgid "To Do"
+msgstr "À faire"
+
+#. module: florist
+#: model:product.template,name:florist.product_template_7
+msgid "Tulips"
+msgstr "Tulipes"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"Use the <strong>Planning App</strong> to schedule your team’s shifts, "
+"ensuring the right staffing for busy event days."
+msgstr ""
+"Utilisez l’application <strong>Planification</strong> pour programmer les "
+"horaires de votre équipe et garantir une présence adaptée les journées "
+"d’événements chargées."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"Use the <strong>Sales Reporting</strong> to analyze flower sales trends "
+"around major events like Valentine's Day, Mother's Day, Father's Day, or "
+"during summer wedding seasons."
+msgstr ""
+"Utilisez les <strong>rapports de vente</strong> pour analyser les tendances "
+"des ventes de fleurs autour des grands événements tels que la Saint-"
+"Valentin, la fête des Mères, la fête des Pères, ou pendant la saison des "
+"mariages en été."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"Use the chatter of a Purchase Order to communicate with the vendor about a "
+"specific delivery and post a picture if something is missing compared to "
+"what was ordered."
+msgstr ""
+"Utilisez le fil de discussion d’un bon de commande pour communiquer avec le "
+"fournisseur à propos d’une livraison spécifique et publier une photo en cas "
+"de différence avec la commande."
+
+#. module: florist
+#: model:product.template,name:florist.product_template_18
+msgid "Venue Floral Design"
+msgstr "Conception florale pour lieux d’événements"
+
+#. module: florist
+#: model:pos.category,name:florist.pos_category_4
+msgid "Wedding"
+msgstr "Mariage"
+
+#. module: florist
+#: model:sale.order.template,name:florist.sale_order_template_1
+msgid "Wedding Bliss Package"
+msgstr ""
+
+#. module: florist
+#: model:product.template,name:florist.product_template_12
+msgid "Wedding Bouquet"
+msgstr "Bouquet de mariée"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "Welcome to the <strong>Odoo Florist Package</strong>!"
+msgstr "Découvrez le package <strong>Odoo Fleuriste</strong> !"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_contactus
+msgid ""
+"Whether you’re dreaming of a bespoke bouquet, an unforgettable event, or a "
+"refined floral partnership, our team is here to bring your vision to life "
+"with artistry and care."
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "Would you like to discuss your Odoo setup with us or go even further?"
+msgstr ""
+"Vous souhaitez discuter avec nous de l'installation d'Odoo ou approfondir la "
+"question ?"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"You can access every installed App in your Odoo database on your main "
+"dashboard."
+msgstr ""
+"Vous pouvez accéder à toutes les applications installées dans votre base de "
+"données Odoo depuis votre tableau de bord principal."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid ""
+"You should be able to execute the following flows to have an overview of "
+"various processes you can quickly execute with this package using Odoo."
+msgstr ""
+"Exécutez les flux suivants pour obtenir un aperçu des différents processus "
+"que vous pouvez facilement gérer avec ce package dans Odoo."
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "academy"
+msgstr "academy"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "and"
+msgstr "et"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "documentation"
+msgstr "documentation"
+
+#. module: florist
+#: model:crm.tag,name:florist.crm_tag_1
+msgid "event"
+msgstr "événement"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.footer_custom
+msgid "hello@maisonreverie.be"
+msgstr ""
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "if you need help!"
+msgstr "si vous avez besoin d'aide !"
+
+#. module: florist
+#: model:product.attribute.value,name:florist.product_attribute_value_6
+msgid "large"
+msgstr "grand"
+
+#. module: florist
+#: model:product.attribute.value,name:florist.product_attribute_value_5
+msgid "medium"
+msgstr "médium"
+
+#. module: florist
+#: model:product.attribute.value,name:florist.product_attribute_value_2
+msgid "purple"
+msgstr "violet"
+
+#. module: florist
+#: model:product.attribute.value,name:florist.product_attribute_value_3
+msgid "red"
+msgstr "rouge"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.welcome_article_body
+msgid "request a demo"
+msgstr "demander une démonstration"
+
+#. module: florist
+#: model:product.attribute.value,name:florist.product_attribute_value_4
+msgid "small"
+msgstr "petit"
+
+#. module: florist
+#: model:crm.tag,name:florist.crm_tag_2
+msgid "wedding"
+msgstr "mariage"
+
+#. module: florist
+#: model:product.attribute.value,name:florist.product_attribute_value_1
+msgid "yellow"
+msgstr "jaune"
+
+#. module: florist
+#: model_terms:ir.ui.view,arch_db:florist.view_page_home
+msgid "• Exclusive Maison Reverie •  Florist"
+msgstr ""
+
+#~ msgid "<b>Designed</b> for companies"
+#~ msgstr "<b>Conçu</b> pour les entreprises"
+
+#~ msgid ""
+#~ "<b>My Company</b><br/>250 Executive Park Blvd, Suite 3400 <br/> San "
+#~ "Francisco CA 94134 <br/>United States"
+#~ msgstr ""
+#~ "<b>My Company</b><br/>250 Executive Park Blvd, Suite 3400 <br/> San "
+#~ "Francisco CA 94134 <br/>États-Unis"
+
+#~ msgid "<i class=\"fa fa-1x fa-fw fa-envelope me-2\"/>hello@bloomworks.co.uk"
+#~ msgstr ""
+#~ "<i class=\"fa fa-1x fa-fw fa-envelope me-2\"/>hello@bloomworks.co.uk"
+
+#~ msgid ""
+#~ "<i class=\"fa fa-1x fa-fw fa-phone me-1\"/>\n"
+#~ "                  <span class=\"o_force_ltr\">\n"
+#~ "                    <small>+1 555-555-5556</small>\n"
+#~ "                  </span>"
+#~ msgstr ""
+#~ "<i class=\"fa fa-1x fa-fw fa-phone me-1\"/>\n"
+#~ "                  <span class=\"o_force_ltr\">\n"
+#~ "                    <small>+1 555-555-5556</small>\n"
+#~ "                  </span>"
+
+#~ msgid ""
+#~ "<i class=\"fa fa-1x fa-fw fa-phone me-1\"/>\n"
+#~ "                <span class=\"o_force_ltr\">\n"
+#~ "                  <small>+1 555-555-5556</small>\n"
+#~ "                </span>"
+#~ msgstr ""
+#~ "<i class=\"fa fa-1x fa-fw fa-phone me-1\"/>\n"
+#~ "                <span class=\"o_force_ltr\">\n"
+#~ "                  <small>+1 555-555-5556</small>\n"
+#~ "                </span>"
+
+#~ msgid "<i class=\"fa fa-1x fa-fw fa-phone me-1\"/>͏"
+#~ msgstr "<i class=\"fa fa-1x fa-fw fa-phone me-1\"/>͏"
+
+#~ msgid ""
+#~ "<i class=\"fa fa-map-marker fa-fw me-2\"/>\n"
+#~ "                        <span class=\"o_force_ltr\">45 Rosewood "
+#~ "Lane,&amp;nbsp;Cambridge, CB2 3DQ</span>"
+#~ msgstr ""
+#~ "<i class=\"fa fa-map-marker fa-fw me-2\"/>\n"
+#~ "                        <span class=\"o_force_ltr\">45 Rosewood "
+#~ "Lane,&amp;nbsp;Cambridge, CB2 3DQ</span>"
+
+#~ msgid ""
+#~ "<small class=\"d-flex align-items-center\"><i class=\"fa fa-1x fa-fw fa-"
+#~ "usd fa-stack me-1\"/>\n"
+#~ "                        Low Price Guarantee\n"
+#~ "                    </small>\n"
+#~ "                <small class=\"d-flex align-items-center\"><i class=\"fa "
+#~ "fa-1x fa-fw fa-shopping-basket fa-stack me-1\"/>\n"
+#~ "                        30 Days Online Returns\n"
+#~ "                    </small>\n"
+#~ "                <small class=\"d-flex align-items-center\"><i class=\"fa "
+#~ "fa-1x fa-fw fa-truck fa-stack me-1\"/>\n"
+#~ "                        Standard Shipping\n"
+#~ "                    </small>"
+#~ msgstr ""
+#~ "<small class=\"d-flex align-items-center\"><i class=\"fa fa-1x fa-fw fa-"
+#~ "usd fa-stack me-1\"/>\n"
+#~ "                        Garantie du prix le plus bas\n"
+#~ "                    </small>\n"
+#~ "                <small class=\"d-flex align-items-center\"><i class=\"fa "
+#~ "fa-1x fa-fw fa-shopping-basket fa-stack me-1\"/>\n"
+#~ "                        Retours en ligne sous 30 jours\n"
+#~ "                    </small>\n"
+#~ "                <small class=\"d-flex align-items-center\"><i class=\"fa "
+#~ "fa-1x fa-fw fa-truck fa-stack me-1\"/>\n"
+#~ "                        Livraison standard\n"
+#~ "                    </small>"
+
+#~ msgid ""
+#~ "<small><i class=\"fa fa-1x fa-fw fa-envelope me-1\"/>\n"
+#~ "                            info@yourcompany.example.com\n"
+#~ "                        </small>"
+#~ msgstr ""
+#~ "<small><i class=\"fa fa-1x fa-fw fa-envelope me-1\"/>\n"
+#~ "                            info@yourcompany.example.com\n"
+#~ "                        </small>"
+
+#~ msgid ""
+#~ "<small><i class=\"fa fa-1x fa-fw fa-envelope me-1\"/> "
+#~ "info@yourcompany.example.com</small>"
+#~ msgstr ""
+#~ "<small><i class=\"fa fa-1x fa-fw fa-envelope me-1\"/> "
+#~ "info@yourcompany.example.com</small>"
+
+#~ msgid "<small>Free Returns and Standard Shipping</small>"
+#~ msgstr "<small>Retours gratuits et expédition standard</small>"
+
+#~ msgid "<span class=\"base-fs\">Floralize My Event </span>"
+#~ msgstr "<span class=\"base-fs\">Fleurir mon événement</span>"
+
+#~ msgid ""
+#~ "<span class=\"base-fs\">Planning a wedding, birthday, or corporate event?"
+#~ "&amp;nbsp;<br/>Let BloomWorks create breathtaking floral decor tailored "
+#~ "to your vision. From elegant bridal bouquets to stunning centerpieces and "
+#~ "venue designs, we’ll make your event bloom with beauty.</span>"
+#~ msgstr ""
+#~ "<span class=\"base-fs\">Vous organisez un mariage, un anniversaire ou un "
+#~ "événement professionnel ?<br/> Laissez BloomWorks imaginer une décoration "
+#~ "florale à couper le souffle, parfaitement alignée avec votre vision. Des "
+#~ "bouquets de mariée raffinés aux centres de table spectaculaires, en "
+#~ "passant par la décoration du lieu, nous transformons votre événement en "
+#~ "un véritable jardin enchanté.</span>"
+
+#~ msgid "<span class=\"o_force_ltr\">+1 555-555-5556</span>"
+#~ msgstr "<span class=\"o_force_ltr\">+1 555-555-5556</span>"
+
+#~ msgid ""
+#~ "<span class=\"s_website_form_label_content\">Subject</span>\n"
+#~ "                                  <span class=\"s_website_form_mark\"> *</"
+#~ "span>"
+#~ msgstr ""
+#~ "<span class=\"s_website_form_label_content\">Sujet</span>\n"
+#~ "                                <span class=\"s_website_form_mark\"> *</"
+#~ "span>"
+
+#~ msgid ""
+#~ "<span class=\"s_website_form_label_content\">Your Email</span>\n"
+#~ "                                  <span class=\"s_website_form_mark\"> *</"
+#~ "span>"
+#~ msgstr ""
+#~ "<span class=\"s_website_form_label_content\">Votre e-mail</span>\n"
+#~ "                                <span class=\"s_website_form_mark\"> *</"
+#~ "span>"
+
+#~ msgid ""
+#~ "<span class=\"s_website_form_label_content\">Your Name</span>\n"
+#~ "                                  <span class=\"s_website_form_mark\"> *</"
+#~ "span>"
+#~ msgstr ""
+#~ "<span class=\"s_website_form_label_content\">Votre nom</span>\n"
+#~ "                                <span class=\"s_website_form_mark\"> *</"
+#~ "span>"
+
+#~ msgid ""
+#~ "<span class=\"s_website_form_label_content\">Your Question</span>\n"
+#~ "                                  <span class=\"s_website_form_mark\"> *</"
+#~ "span>"
+#~ msgstr ""
+#~ "<span class=\"s_website_form_label_content\">Votre question</span>\n"
+#~ "                                <span class=\"s_website_form_mark\"> *</"
+#~ "span>"
+
+#~ msgid ""
+#~ "<strong><strong><i class=\"fa fa-phone fa-fw\"/></strong></"
+#~ "strong>&amp;nbsp;+44 1223 123456"
+#~ msgstr ""
+#~ "<strong><strong><i class=\"fa fa-phone fa-fw\"/></strong></"
+#~ "strong>&amp;nbsp;+44 1223 123456"
+
+#~ msgid "BloomWorks Floral Boutique"
+#~ msgstr "BloomWorks Floral Boutique"
+
+#~ msgid "BloomWorks&amp;nbsp;brings creativity and passion in every petal"
+#~ msgstr "BloomWorks apporte créativité et passion dans chaque pétale"
+
+#~ msgid "Camille Rose"
+#~ msgstr "Camille Rose"
+
+#~ msgid "Card"
+#~ msgstr "Card"
+
+#~ msgid "Cash"
+#~ msgstr "Espèces"
+
+#~ msgid "Contact us"
+#~ msgstr "Contactez-nous"
+
+#~ msgid ""
+#~ "Contact us about anything related to our company or services.<br/>\n"
+#~ "                                    We'll do our best to get back to you "
+#~ "as soon as possible."
+#~ msgstr ""
+#~ "Contactez-nous pour tout ce qui concerne notre entreprise ou nos services."
+#~ "<br/>\n"
+#~ "                                    Nous ferons de notre mieux pour vous "
+#~ "répondre dans les plus brefs délais."
+
+#~ msgid "Creativity"
+#~ msgstr "Créativité"
+
+#~ msgid "Customer Account"
+#~ msgstr "Compte client"
+
+#~ msgid "Event Creator&amp;nbsp;"
+#~ msgstr "Créateur d’événement"
+
+#~ msgid "Every customer is at the center of what we do"
+#~ msgstr "Chaque client est au cœur de notre mission"
+
+#~ msgid "Excellence"
+#~ msgstr "Excellence"
+
+#~ msgid "Floral Designs for Life’s Special Events&amp;nbsp;"
+#~ msgstr "Des créations florales pour chaque événement."
+
+#~ msgid "Flowers for Every Moment"
+#~ msgstr "Des fleurs pour chaque moment qui compte"
+
+#~ msgid "Follow us"
+#~ msgstr "Suivez-nous"
+
+#~ msgid ""
+#~ "Founded by flower lovers for flower lovers, BloomWorks is your "
+#~ "neighborhood florist with a flair for elegance. We believe every flower "
+#~ "has a story to tell, and we're here to help you express it. Whether it’s "
+#~ "a gift, a wedding, or a workspace refresh, we craft each arrangement with "
+#~ "heart and soul."
+#~ msgstr ""
+#~ "Fondée par des passionnés de fleurs pour des passionnés de fleurs, "
+#~ "BloomWorks est votre fleuriste de quartier, avec une touche d’élégance. "
+#~ "Nous croyons que chaque fleur a une histoire à raconter — et nous sommes "
+#~ "là pour vous aider à la faire éclore. Qu’il s’agisse d’un cadeau, d’un "
+#~ "mariage ou d’un simple vent de fraîcheur pour votre espace de travail, "
+#~ "chaque composition est réalisée avec cœur et âme."
+
+#~ msgid "Get to know us"
+#~ msgstr "En savoir plus sur nous"
+
+#~ msgid "Hugo Petal"
+#~ msgstr "Hugo Petal"
+
+#~ msgid "I can buy myself flowers.&amp;nbsp;"
+#~ msgstr "Pas besoin d'attendre qu'on m'offre des fleurs."
+
+#~ msgid "Lily Scott"
+#~ msgstr "Lily Scott"
+
+#~ msgid "Passion for Service"
+#~ msgstr "Une passion au service des autres"
+
+#~ msgid "Sustainability"
+#~ msgstr "Développement durable"
+
+#~ msgid ""
+#~ "Track stock in real-time, manage multiple storage locations, automate "
+#~ "restocking, and monitor flowers freshness and avoid shortages with the "
+#~ "<strong>Inventory App</strong>."
+#~ msgstr ""
+#~ "Suivez les stocks en temps réel, gérez plusieurs lieux de stockage, "
+#~ "automatisez le réapprovisionnement, surveillez la fraîcheur des fleurs et "
+#~ "évitez les ruptures avec l’application <strong>Inventaire</strong>."
+
+#~ msgid ""
+#~ "We are a team of passionate people whose goal is to improve everyone's "
+#~ "life through disruptive products. We build great products to solve your "
+#~ "business problems. Our products are designed for small to medium size "
+#~ "companies willing to optimize their performance."
+#~ msgstr ""
+#~ "Nous sommes une équipe de passionnés dont le but est d'améliorer la vie "
+#~ "de chacun grâce à des produits disruptifs. Nous fabriquons d'excellents "
+#~ "produits pour résoudre vos problèmes commerciaux. Nos produits sont "
+#~ "conçus pour les petites et moyennes entreprises désireuses d'optimiser "
+#~ "leurs performances."
+
+#~ msgid ""
+#~ "We are committed to quality at every step: from the first bud to the "
+#~ "final arrangement.&amp;nbsp;<br/>"
+#~ msgstr ""
+#~ "Un engagement qualité à chaque étape : du premier bourgeon à la "
+#~ "composition finale.<br/>"
+
+#~ msgid ""
+#~ "We design unique floral arrangements that capture the personality of "
+#~ "every client and every occasion.&amp;nbsp;<br/>"
+#~ msgstr ""
+#~ "Nous créons des arrangements floraux uniques, à l’image de chaque client "
+#~ "et de chaque moment.<br/>"
+
+#~ msgid ""
+#~ "We partner with local and seasonal growers to promote eco-friendly, fresh "
+#~ "flower sourcing.&amp;nbsp;<br/>"
+#~ msgstr ""
+#~ "Nous collaborons avec des producteurs locaux et saisonniers pour "
+#~ "favoriser un approvisionnement en fleurs fraîches et respectueux de "
+#~ "l’environnement.<br/>"
+
+#~ msgid "blue flower with black background"
+#~ msgstr "fleur bleue sur fond noir"
+
+#~ msgid "green leafed plant clip art"
+#~ msgstr "illustration de plante à feuilles vertes"
+
+#~ msgid "green leaves"
+#~ msgstr "feuilles vertes"
+
+#~ msgid "hello@mycompany.com"
+#~ msgstr "hello@mycompany.com"
+
+#~ msgid "orange flower under blue sky during daytime"
+#~ msgstr "fleur orange sous un ciel bleu en journée"
+
+#~ msgid "purple flower under blue sky during daytime"
+#~ msgstr "fleur violette sous un ciel bleu en journée"
+
+#~ msgid "purple, white, and pink floral painting"
+#~ msgstr "peinture florale violette, blanche et rose"
+
+#~ msgid "white flowers in macro shot"
+#~ msgstr "fleurs blanches en macro"
+
+#~ msgid "white-and-brown sunflower field during daytime"
+#~ msgstr "champ de tournesols blancs et bruns en journée"
+
+#~ msgid "yellow and red flower under blue sky during daytime"
+#~ msgstr "fleur jaune et rouge sous un ciel bleu en journée"
